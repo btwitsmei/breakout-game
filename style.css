@@ -1,0 +1,16 @@
+body{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #181818;
+
+}
+
+#game{
+    background-color: #8c8c8c;
+    margin-top: 10rem;
+    border: 4px solid red;
+    border-radius: 10px;
+
+}
